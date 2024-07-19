@@ -1,5 +1,5 @@
 # APSHO
-APSHO HTML Theme Development Structure
+
 
 
 ** Recommended modules and Installation process ** 
